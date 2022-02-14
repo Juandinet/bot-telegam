@@ -1,6 +1,8 @@
 # bot-telegam
-Pruebas de un bot de telegram
-
- se debe instalar la libreria de telegram:
+Este es un sencillo bot de telegram que recibe ordenes de y muestra mesajes de acuerdo a esa orden
+>>
+- Requiere Python 3
+- Se debe instalar la libreria de telegram en su :
  
- <code>pip install python-telegram-bot</code>
+		
+		pip install python-telegram-bot
